@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SonnyAngel</string>
+    <string name="detailsName">Sonny Name</string>
+    <string name="imgDesc">Picture of Big Sonny</string>
+    <string name="nameDesc">Name of Detail</string>
+    <string name="descDesc">Description of Sonny</string>
+    <string name="directory">Sonny Angel Directory</string>
+    <string name="call">TEL: 888-8888</string>
+</resources>
